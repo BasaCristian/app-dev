@@ -1,5 +1,5 @@
 # app-dev
 My first repository
-1. Spider-man
-- Spider-man2
+1. Spider man
 ### The avengers
+- Spider man 2
